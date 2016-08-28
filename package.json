@@ -1,0 +1,19 @@
+{
+  "name": "reactdemo",
+  "version": "1.0.0",
+  "description": "ReactIntro\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactJS",
+    "express",
+    "Node\u001b[D\u001b[D\u001b[n\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "Kajal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
